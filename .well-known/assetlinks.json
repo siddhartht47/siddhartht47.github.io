@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siddharth.hydrate",
+    "sha256_cert_fingerprints": ["52:18:BE:CA:D1:0F:6F:74:6A:84:EB:F0:63:84:77:A8:CC:13:39:3C:2A:FC:BC:BC:0F:5E:B7:7D:E1:41:16:76"]
+  }
+}]
